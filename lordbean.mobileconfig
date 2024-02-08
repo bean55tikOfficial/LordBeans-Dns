@@ -104,36 +104,11 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
-				<key>SupplementalMatchDomains</key>
-				<array>
-					<string>www.netflix.com</string>
-					<string>9animetv.to</string>
-					<string>www.youtube.com</string>
-					<string>www.snapchat.com</string>
-					<string>discord.com</string>
-					<string>twitter.com</string>
-					<string>www.instagram.com</string>
-					<string>www.facebook.com</string>
-					<string>www.tiktok.com</string>
-					<string>www.reddit.com</string>
-					<string>itch.io</string>
-					<string>www.mediafire.com</string>
-					<string>www.coolmathgames.com</string>
-				</array>
-			</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>
   - Ad Block (by khoindvn)
   - Anti-Revoke (by khoindvn)
-  - Website Unblocker (by me and may or may not work)
   </string>
 	<key>PayloadDisplayName</key>
 	<string>LordBean's DNS</string>
