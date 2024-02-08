@@ -110,7 +110,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://www.betterbag.com</string>
+				<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
 				<key>SupplementalMatchDomains</key>
 				<array>
 					<string>www.netflix.com</string>
